@@ -28,6 +28,10 @@
     margin-left: 10px;
 }
 
+.navbar-option-container {
+    margin-left: auto;
+}
+
 .navbar-option {
     width: "10%";
     display: flex;
