@@ -44,7 +44,7 @@
 }
 
 .item-text-title {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     font-size: 46px;
     font-weight: 800;
     color: white;
@@ -52,7 +52,7 @@
 }
 
 .item-text-desc {
-    margin-bottom: 10px;
-    font-size: 30px;
+    font-size: 18px;
+    font-weight: 500;
     text-align: center;
 }

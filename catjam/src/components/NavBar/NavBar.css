@@ -17,7 +17,7 @@
 
 .logo-picture {
     width: 40px;
-    border: 2px solid #4a4a4a;
+    border: 2px solid black;
 }
 
 .logo-text {
@@ -30,10 +30,12 @@
 
 .navbar-option-container {
     margin-left: auto;
+    position: relative;
+    width: "100%";
 }
 
 .navbar-option {
-    width: "10%";
+    width: 100px;
     display: flex;
     flex-direction: column;
     margin-left: 10px;

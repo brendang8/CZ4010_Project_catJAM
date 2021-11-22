@@ -43,8 +43,8 @@ function Item(props)
             <div className="item-content">
                 <div className="item-content-container">
                     <span className="item-text-title">{props.item.name}</span>
-                    <span className="item-text">{props.item.description}</span>
-                    <Button variant="contained" color="secondary" style={{marginTop: '50px'}}>
+                    <span className="item-text-desc">{props.item.description}</span>
+                    <Button variant="contained" color="secondary" style={{marginTop: '60px'}}>
                         {props.item.button}
                     </Button>
                 </div>
